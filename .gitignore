@@ -30,3 +30,30 @@
 *.exe
 *.out
 *.app
+
+#VSC
+/.vscode
+
+# Cmake
+/*build*/
+
+.cache
+*.DS_Store
+
+# LSP
+compile_commands.json
+
+# IDE Specific
+/.idea
+
+# XCode
+/CMakeFiles
+CMakeCache.txt
+CMakeUserPresets.json
+CMakeScripts/ReRunCMake.make
+*.pbxproj
+*.xcsettings
+cmake_install.cmake
+
+# MSVC
+*.pdb
