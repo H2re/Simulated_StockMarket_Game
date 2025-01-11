@@ -1,6 +1,11 @@
 #ifndef AGENT_H
 #define AGENT_H
 
+#include <string>
+#include <list>
+#include <tuple>
+#include <random>
+
 #include "../stock/stock.h"
 #include "../../util/queue.h"
 

@@ -1,6 +1,10 @@
 #ifndef __ORDERBOOK_H__
 #define __ORDERBOOK_H__
 
+#include <iostream>
+#include <string>
+#include <map>
+
 class Orderbook {
 public:
     struct Order {

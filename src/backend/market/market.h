@@ -1,6 +1,13 @@
 #ifndef __MARKET_H__
 #define __MARKET_H__
 
+#include <map>
+#include <string>
+#include <vector>
+#include <fstream>
+#include <iostream>
+#include <ostream>
+
 #include "../stock/stock.h"
 
 class Market {

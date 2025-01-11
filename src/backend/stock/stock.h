@@ -1,5 +1,6 @@
 #ifndef __STOCK_H__
 #define __STOCK_H__
+
 #include "../orders/orderbook.h"
 #include "../../util/queue.h"
 

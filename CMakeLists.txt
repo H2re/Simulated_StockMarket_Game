@@ -11,5 +11,3 @@ file(GLOB_RECURSE SOURCE_FILES "${SOURCE_DIR}/*.cpp")
 file(GLOB_RECURSE JSON_SOURCES "${RESOURCES_DIR}/*.json")
 
 add_executable(${PROJECT_NAME} ${SOURCE_FILES})
-target_precompile_headers(${PROJECT_NAME} PRIVATE "${SOURCE_DIR}/precompiled.h")
-target_include_directories(${PROJECT_NAME} PRIVATE ${SOURCE_DIR})
