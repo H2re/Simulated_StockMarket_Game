@@ -1,8 +1,0 @@
-# ninja log v6
-1	521	1736627875421640691	CMakeFiles/StockMarketSim.dir/cmake_pch_arm64.hxx.pch	6aabba1511d8cacd
-5	162	1736629214658549861	CMakeFiles/StockMarketSim.dir/src/backend/stock/stock.cpp.o	29e981bfa98f5b2
-5	240	1736629214658677030	CMakeFiles/StockMarketSim.dir/src/main.cpp.o	49ae966742bcb85d
-240	285	1736629214894164574	StockMarketSim	cce607640eea74f8
-522	603	1736627875943273496	CMakeFiles/StockMarketSim.dir/src/backend/market/market.cpp.o	54d27b0809ae8bd
-4	196	1736629214658204857	CMakeFiles/StockMarketSim.dir/src/backend/orders/orderbook.cpp.o	7c8b8a0d4c5b4a41
-523	620	1736627875943824575	CMakeFiles/StockMarketSim.dir/src/util/queue.cpp.o	8eb0b591ccd7aafc
